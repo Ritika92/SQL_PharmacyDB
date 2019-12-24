@@ -14,3 +14,4 @@ Laguange used is SQL and Database is MySQL.
 • Maintain user access control in the application to control access to information
 
 ## Logical Model -uml
+![Image description](https://github.com/Ritika92/SQL_PharmacyDB/blob/master/LogicalModel-UML.jpg)
