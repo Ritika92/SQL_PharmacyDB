@@ -13,5 +13,10 @@ Laguange used is SQL and Database is MySQL.
 - Ensure quality assurance in drug dispensing (i.e. prevent expired drugs from being dispensed etc.)
 - Maintain user access control in the application to control access to information
 
-## Logical Model -uml
+## Logical Model -UML
 ![Image description](https://github.com/Ritika92/SQL_PharmacyDB/blob/master/LogicalModel-UML.jpg)
+
+### Please read wiki for more details on the project.
+
+
+<sub> This project was done by a team of 4 </sub> 
