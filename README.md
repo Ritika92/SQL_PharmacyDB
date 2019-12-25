@@ -16,7 +16,7 @@ Laguange used is SQL and Database is MySQL.
 ## Logical Model -UML
 ![Image description](https://github.com/Ritika92/SQL_PharmacyDB/blob/master/LogicalModel-UML.jpg)
 
-### Please read wiki for more details on the project.
+### Please read wiki for more details on the project. SQL files (DDL and DML query files) are available in this repository.
 
 
 <sub> This project was done by a team of 4 </sub> 
